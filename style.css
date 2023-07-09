@@ -31,8 +31,8 @@ h1 {
     background-size: cover;
     color: #ffffff;
   }
-  
-  .site-header p {
+
+    .site-header p {
     width: 255px;
     margin: 0 auto 26px;
     text-align: center;
@@ -54,7 +54,7 @@ h1 {
   .features p {
     display: inline-block;
     vertical-align: top;
-    width: 30%;
+    width: 40%;
     margin: 0 5px;
     background-repeat: no-repeat;
     background-position: center top;
@@ -63,17 +63,17 @@ h1 {
   
   .feature-furniture {
     padding-top: 65px;
-    background-image: url("img/furniture.svg");
+    
   }
   
   .feature-lighting {
     padding-top: 65px;
-    background-image: url("img/lighting.svg");
+    
   }
   
   .feature-accessories {
     padding-top: 65px;
-    background-image: url("img/accessories.svg");
+    
   }
   
   .advantages {
